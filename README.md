@@ -29,6 +29,11 @@
 </div>
 <img src="https://64.media.tumblr.com/5a8a83e0e24e7810bc45a61126b70808/fd73bb7ded11481a-68/s400x600/d148896c18e9c807e347111d17511eb3c04a7e34.gifv" align="left" width="100px" />  
 
+
+---
+
+<div align="center">
+  
 <!-- myplasyslit de spotify y pinterets-->
 <p align="center">
   <a href="https://open.spotify.com/playlist/1U73ZmqxgIwNfoA5Y47gou?si=d9ea78bb509c412b">
@@ -39,7 +44,37 @@
   </a>
 </p>
 
+---
 
+<div align="center">
+
+
+<!-- colocar todas mis cuentas, hasta mi pagina de post principal -->
+<p align="center">
+  <img src="https://64.media.tumblr.com/39a77e8ef96112a15fd46e94fc98e3cd/fd73bb7ded11481a-9a/s250x400/d27156650787e748be356b032fa6c77f2f691b44.gifv" width="35px" align="absmiddle" />
+  <font size="4" color="#FF69B4"><b> Mis Cuentas </b></font>
+  <img src="https://64.media.tumblr.com/474b1bd177fb563f70bac4eb0c3317f4/4efc0099aef2266a-67/s400x600/e9a59478d924ba7ea86775a898714ff5fdd4600a.gifv" width="35px" align="absmiddle" />
+</p>
+
+
+
+<p>
+  <a href="https://github.com/myscarllet">
+    <img src="https://img.shields.io/badge/GitHub-myscarllet-FF69B4?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://pinterest.com/myscarllet">
+    <img src="https://img.shields.io/badge/Pinterest-myscarllet-FFB6C1?style=for-the-badge&logo=pinterest&logoColor=white" />
+  </a>
+</p> 
+
+
+<!-- al costado de mis cuenta en gift-->
+
+
+</div>
+<img src="https://64.media.tumblr.com/d39ea6a03050f902dbe4e7222dfcab79/cd41adb4ea8c6a8d-13/s540x810/fca02491ef5ddb7baade4fd2d5e8dc89e26d2202.gifv" align="left" width="100px" />  
+
+  
 
 <!-- Imagen gift de marin -->
 
