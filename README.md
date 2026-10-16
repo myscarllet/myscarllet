@@ -47,6 +47,8 @@
 ---
 
 <div align="center">
+  
+
 
 
 <!-- colocar todas mis cuentas, hasta mi pagina de post principal -->
@@ -57,27 +59,61 @@
 </p>
 
 
-
-<p>
-  <a href="https://github.com/myscarllet">
-    <img src="https://img.shields.io/badge/GitHub-myscarllet-FF69B4?style=for-the-badge&logo=github&logoColor=white" />
+<p align="center">
+  <!-- Ko-fi Shop -->
+  <a href="https://ko-fi.com/myscarllett/shop" target="_blank">
+    <img src="https://img.shields.io/badge/KO--FI_SHOP-MYSCARLLETT-FF69B4?style=for-the-badge&logo=kofi&logoColor=white" />
   </a>
-  <a href="https://pinterest.com/myscarllet">
-    <img src="https://img.shields.io/badge/Pinterest-myscarllet-FFB6C1?style=for-the-badge&logo=pinterest&logoColor=white" />
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/myscarllet/" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-MYSCARLLET-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</p> 
+  <!-- TikTok -->
+  <a href="https://www.tiktok.com/@myscarllett" target="_blank">
+    <img src="https://img.shields.io/badge/TIKTOK-MYSCARLLETT-FF69B4?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/@myscarllett" target="_blank">
+    <img src="https://img.shields.io/badge/YOUTUBE-MYSCARLLETT-FF69B4?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <!-- Mi Página Web -->
+  <a href="https://myscarlleyescoge.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/MI_PÁGINA_WEB-NETLIFY-FF69B4?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+  <!-- Spotify -->
+  <a href="https://open.spotify.com/playlist/1U73ZmqxgIwNfoA5Y47gou?si=d9ea78bb509c412b" target="_blank">
+    <img src="https://img.shields.io/badge/MI_PLAYLIST_FAV-SPOTIFY-FF69B4?style=for-the-badge&logo=spotify&logoColor=white" />
+  </a>
+  <!-- GitHub -->
+  <a href="https://github.com/myscarllet" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-MYSCARLLET-FF69B4?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <!-- Pinterest -->
+  <a href="https://pinterest.com/myscarllet" target="_blank">
+    <img src="https://img.shields.io/badge/PINTEREST-MYSCARLLET-FF69B4?style=for-the-badge&logo=pinterest&logoColor=white" />
+  </a>
+</p>
 
 
 <!-- al costado de mis cuenta en gift-->
 
 
-</div>
-<img src="https://64.media.tumblr.com/d39ea6a03050f902dbe4e7222dfcab79/cd41adb4ea8c6a8d-13/s540x810/fca02491ef5ddb7baade4fd2d5e8dc89e26d2202.gifv" align="left" width="100px" />  
 
+
+---
+
+<div align="center">
   
+
+<div align="center">
+  <img src="https://64.media.tumblr.com/cd2d7c568408eaa1ab44194fdcf31085/4efc0099aef2266a-3d/s1280x1920/8814ef30bc6b136c779041db3a5530af9eed7f88.gifv" alt="Decoración myscarllet" width="80%" />
+</div>
 
 <!-- Imagen gift de marin -->
 
 <div align="center">
   <img src="https://64.media.tumblr.com/a05dcb02c8e43265267b5d861e9097ac/5e722013582c9b44-74/s540x810/6d5afd73002df5d828d039a723de613f5e17e30a.gifv" alt="Decoración myscarllet" width="80%" />
 </div>
+
+
+<img src="https://64.media.tumblr.com/d39ea6a03050f902dbe4e7222dfcab79/cd41adb4ea8c6a8d-13/s540x810/fca02491ef5ddb7baade4fd2d5e8dc89e26d2202.gifv" align="right" width="100px" />
