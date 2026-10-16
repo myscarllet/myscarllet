@@ -1,7 +1,12 @@
+<!-- GIF decorativo de la izquierda -->
 <p align="center">
   <img src="https://64.media.tumblr.com/5a8a83e0e24e7810bc45a61126b70808/fd73bb7ded11481a-68/s400x600/d148896c18e9c807e347111d17511eb3c04a7e34.gifv" align="left" width="100px" /> 
-
-
+  
+<!-- Nota rosa al principio-->
+  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1500&color=FF69B4&center=true&vCenter=true&width=700&lines=%C2%A1Holii!+Bienvenida+al+universo+de+MyScarllet;Soy+Jennifer+(MyScarllet);Desarrolladora+Software+Cute+%26+Dolly;Apasionada+del+Frontend+y+Backend;Investigadora+en+Automatizacion+y+Ciberseguridad;Creando+proyectos+con+vibe+coquette" alt="Typing SVG" />
+</p>
 
 <p align="center">
 <a href="https://pinterest.com/myscarllet">
